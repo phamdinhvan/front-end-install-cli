@@ -1,0 +1,20 @@
+{
+  "name": "install-cli-tgl",
+  "version": "1.0.4",
+  "description": "A CLI tool for installing projects",
+  "type": "module",
+  "bin": {
+    "install-cli-tgl": "index.js"
+  },
+  "dependencies": {
+    "inquirer": "^11.1.0"
+  },
+  "keywords": [
+    "CLI",
+    "ReactJS",
+    "Vite",
+    "NextJS"
+  ],
+  "author": "vandeptrai",
+  "license": "MIT"
+}
